@@ -2,6 +2,10 @@
 
 Case / record IDs:
 
+Proposed component and intended use:
+
+Version and configuration known or still unresolved:
+
 ## Claim
 
 What can you conclude from the supplied information? State any conditions attached to the conclusion.
