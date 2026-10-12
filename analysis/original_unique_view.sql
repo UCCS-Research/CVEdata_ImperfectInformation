@@ -1,0 +1,1 @@
+CREATE VIEW vw_unique_oss_threats AS SELECT DISTINCT ON (ecosystem, compromised_package, compromised_version) * FROM oss_threats WHERE ((ecosystem IS NOT NULL) AND (main."trim"(ecosystem) != '') AND (compromised_package IS NOT NULL) AND (main."trim"(compromised_package) != '') AND (compromised_version IS NOT NULL) AND (main."trim"(compromised_version) != ''));
