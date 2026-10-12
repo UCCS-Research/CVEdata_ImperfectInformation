@@ -1,0 +1,15 @@
+{
+  "source_filename": "threat_intel_phd.duckdb",
+  "source_sha256": "d57965c61217aea52e3b7c9d7910ec412eede50fdee57ec8cf2a3b9ee8f70429",
+  "source_table": "oss_threats",
+  "source_record_count": 977,
+  "missing_package_count": 778,
+  "missing_ecosystem_count": 836,
+  "missingness_rule": "NULL or blank after trim",
+  "scrape_timestamp_min": "2026-03-12 07:16:25",
+  "scrape_timestamp_max": "2026-04-01 05:55:51",
+  "teaching_record_count": 8,
+  "release_scope": "Eight selected records; the original database and review/enrichment tables are not included.",
+  "field_transformations": "Added case_id and record_id; date_scraped serialized as text. Other selected values preserved, including capitalization and trailing whitespace.",
+  "upstream_validation": "Stored snapshot; source URLs are provenance locators, not a fresh validation."
+}
