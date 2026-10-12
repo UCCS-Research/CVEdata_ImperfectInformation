@@ -1,6 +1,6 @@
 # CVE Data and Imperfect Information
 
-A teaching package for examining imperfect security records and justifying dependency-maintenance decisions. Students connect a claim to evidence, explain relevant uncertainty, and recommend a next action. The package uses eight selected records from a fixed collection of 977 threat records collected from 12 March to 1 April 2026.
+A teaching package for examining imperfect security records and justifying dependency decisions. Students connect a claim to evidence, explain relevant uncertainty, and recommend a next action. The package uses eight selected records from a fixed collection of 977 threat records collected from 12 March to 1 April 2026.
 
 ## Start here
 
