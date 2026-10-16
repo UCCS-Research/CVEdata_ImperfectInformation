@@ -1,5 +1,5 @@
 dimension,0 points,1 point,2 points
-Claim scope,Unsupported applicability or dismissal,Partly bounded claim with unsupported step,Claim stays within supplied evidence; conditions explicit
-Evidence trace,No supporting fields,Fields cited without explaining role,Specific fields connected to claim; limits distinguished
-Uncertainty,Decision-relevant limits ignored,Generic uncertainty or blanks listed,"Relevant limits and needed evidence specified, or sufficiency for bounded claim explained"
-Next action,No rationale,Plausible action weakly tied to evidence,"Action addresses relevant limitation, or closes bounded concern when evidence sufficient"
+Claim scope,"Claims the project is affected, or dismisses the report, without support.",Limits the claim but still makes an unsupported assumption.,States only what the evidence supports and explains any conditions.
+Evidence trace,Identifies no supporting fields.,Lists relevant fields without explaining their role.,Explains how specific fields support the claim and what they cannot show.
+Uncertainty,Ignores missing information that could change the decision.,Lists blanks or says more information is needed.,"Explains what information matters to the decision, or why the evidence is already enough."
+Next action,Gives no stated or implicit reason for the action.,"Gives a plausible action with a general reason, but no specific link to the evidence.",Explains how the action addresses what remains unknown or resolves the specific concern.
