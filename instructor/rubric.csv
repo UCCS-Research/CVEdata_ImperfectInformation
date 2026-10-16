@@ -1,5 +1,5 @@
 dimension,0 points,1 point,2 points
-Claim scope,Unsupported applicability or dismissal,Partly bounded claim with unsupported step,Claim stays within evidence and conditions are explicit
-Evidence trace,No supporting fields,Fields cited without explaining role,Specific fields connected to claim and limits distinguished
-Uncertainty,Missing evidence ignored,Generic uncertainty or blanks listed,Decision-relevant uncertainty and required evidence specified
-Next action,No rationale,Action weakly tied to evidence,Action justified by evidence and unresolved questions
+Claim scope,Unsupported applicability or dismissal,Partly bounded claim with unsupported step,Claim stays within supplied evidence; conditions explicit
+Evidence trace,No supporting fields,Fields cited without explaining role,Specific fields connected to claim; limits distinguished
+Uncertainty,Decision-relevant limits ignored,Generic uncertainty or blanks listed,"Relevant limits and needed evidence specified, or sufficiency for bounded claim explained"
+Next action,No rationale,Plausible action weakly tied to evidence,"Action addresses relevant limitation, or closes bounded concern when evidence sufficient"
