@@ -22,8 +22,10 @@ See [reuse and attribution](REUSE.md).
 
 ## Revised teaching materials
 
-This archive adds explicit decision briefs for A-D, a hypothetical D+ follow-up supporting bounded closure, contrasting full-credit responses, and two unused snapshot records with independent task briefs. See `student/decision_briefs.md`, `student/independent_tasks.md`, and `instructor/evaluation_plan.md`. Stored records and constructed exercise facts remain separate. No classroom outcomes or validated assessment instruments are claimed. The repository includes these revised teaching materials.
+This archive adds explicit decision briefs for A-D, a hypothetical D+ follow-up supporting bounded closure, contrasting full-credit responses, and two unused snapshot records with independent task briefs. See `student/decision_briefs.md`, `student/independent_tasks.md`, and `instructor/evaluation_plan.md`. Stored records and constructed exercise facts remain separate. No classroom outcomes or validated assessment instruments are claimed. The public repository contains the revised teaching materials.
 
 ## Distribute handouts
 
 Run `python3 scripts/prepare_handouts.py handouts` (Python 3.9+; standard library). Give students the `handouts/instruction` packet during practice; distribute `handouts/independent` only for the final block. Keep instructor guidance, scoring examples, and evaluation notes separate. The glossary is included. The original database and DuckDB are not needed for classroom use or artifact verification. DuckDB is needed only for optional snapshot reproduction.
+
+The proposed comparison study has [matched instructor directions](instructor/comparison_lessons.md), including shared security content and the intended differences in student practice.
