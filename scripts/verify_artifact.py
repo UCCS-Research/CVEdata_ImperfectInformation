@@ -15,6 +15,9 @@ assert len(exact)==2 and len(trimmed)==1
 assert len({r['identifiers'] for r in c})==3
 assert c[2]['compromised_version']=='1.4.2 '
 assert rows[-1]['compromised_version']=='<2.32.4'
+assert all(r.get('description_snippet') for r in rows)
+d_snippet=rows[-1]['description_snippet'].lower()
+assert 'netrc' in d_snippet and 'url' in d_snippet and 'credential' in d_snippet
 with (root/'data/cases.csv').open(newline='') as f: assert list(csv.DictReader(f))==rows
 m=json.loads((root/'provenance/snapshot.json').read_text())
 assert m['source_record_count']==977 and m['missing_package_count']==778 and m['missing_ecosystem_count']==836
