@@ -19,3 +19,14 @@ with (root/'data/cases.csv').open(newline='') as f: assert list(csv.DictReader(f
 m=json.loads((root/'provenance/snapshot.json').read_text())
 assert m['source_record_count']==977 and m['missing_package_count']==778 and m['missing_ecosystem_count']==836
 print('Verified 8 teaching records; Case C: 2 exact groups, 1 trimmed group, 3 distinct CVEs.')
+
+reserved=json.loads((root/'data/independent_records.json').read_text())
+assert [r['record_id'] for r in reserved]==['T1','T2']
+assert not {r['threat_id'] for r in rows} & {r['threat_id'] for r in reserved}
+assert reserved[0]['compromised_package']=='is'
+assert reserved[1]['compromised_package']=='langgraph' and reserved[1]['compromised_version']=='<4.0.0'
+with (root/'data/independent_records.csv').open(newline='') as f:
+    table=list(csv.DictReader(f))
+assert table==[{k:'' if v is None else str(v) for k,v in r.items()} for r in reserved]
+assert m['independent_record_count']==2
+print('Verified two separate independent-practice records; nulls retained in JSON and blank in CSV.')
