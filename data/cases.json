@@ -10,7 +10,8 @@
     "compromised_package": "for",
     "ecosystem": "",
     "compromised_version": "",
-    "identifiers": "CVE-2025-48023, CVE-2025-1924, CVE-2025-48020, CVE-2025-48021, CVE-2025-48022, CVE-2025-48019"
+    "identifiers": "CVE-2025-48023, CVE-2025-1924, CVE-2025-48020, CVE-2025-48021, CVE-2025-48022, CVE-2025-48019",
+    "description_snippet": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-057-09.json\"><strong>View CSAF</strong></a></p> <h2>Summary</h2> <p><strong>Successful exploitation of these v..."
   },
   {
     "case_id": "B",
@@ -23,7 +24,8 @@
     "compromised_package": "n8n-editor-ui",
     "ecosystem": "npm",
     "compromised_version": ">= 0.211.0, < 1.120.4, = 1.121.0",
-    "identifiers": "CVE-2025-68613"
+    "identifiers": "CVE-2025-68613",
+    "description_snippet": "<p>CISA has added one new vulnerability to its <a href=\"https://www.cisa.gov/known-exploited-vulnerabilities-catalog\">Known Exploited Vulnerabilities (KEV) Catalog</a>, based on evidence of active exp..."
   },
   {
     "case_id": "B",
@@ -36,7 +38,8 @@
     "compromised_package": "n8n",
     "ecosystem": "npm",
     "compromised_version": ">= 0.211.0 and < 1.120.4",
-    "identifiers": "CVE-2025-68613"
+    "identifiers": "CVE-2025-68613",
+    "description_snippet": "n8n contains an improper control of dynamically managed code resources vulnerability in its workflow expression evaluation system that allows for remote code execution."
   },
   {
     "case_id": "B",
@@ -49,7 +52,8 @@
     "compromised_package": "n8n",
     "ecosystem": "npm",
     "compromised_version": ">= 0.211.0, < 1.120.4, = 1.121.0",
-    "identifiers": "CVE-2025-68613"
+    "identifiers": "CVE-2025-68613",
+    "description_snippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of ac..."
   },
   {
     "case_id": "C",
@@ -62,7 +66,8 @@
     "compromised_package": "langflow",
     "ecosystem": "PyPi",
     "compromised_version": "1.4.2",
-    "identifiers": "CVE-2026-0768"
+    "identifiers": "CVE-2026-0768",
+    "description_snippet": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Langflow. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS ra..."
   },
   {
     "case_id": "C",
@@ -75,7 +80,8 @@
     "compromised_package": "langflow",
     "ecosystem": "PyPi",
     "compromised_version": "1.4.2",
-    "identifiers": "CVE-2026-0771"
+    "identifiers": "CVE-2026-0771",
+    "description_snippet": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Langflow. Attack vectors and exploitability will vary depending on the configuration of the product. T..."
   },
   {
     "case_id": "C",
@@ -88,7 +94,8 @@
     "compromised_package": "langflow",
     "ecosystem": "PyPi",
     "compromised_version": "1.4.2 ",
-    "identifiers": "CVE-2026-0770"
+    "identifiers": "CVE-2026-0770",
+    "description_snippet": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Langflow. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS ra..."
   },
   {
     "case_id": "D",
@@ -101,6 +108,7 @@
     "compromised_package": "requests",
     "ecosystem": "PyPI",
     "compromised_version": "<2.32.4",
-    "identifiers": "GHSA-9hjg-9r4m-mvj7, CVE-2024-47081"
+    "identifiers": "GHSA-9hjg-9r4m-mvj7, CVE-2024-47081",
+    "description_snippet": "### Impact  Due to a URL parsing issue, Requests releases prior to 2.32.4 may leak .netrc credentials to third parties for specific maliciously-crafted URLs.  ### Workarounds For older versions of Req..."
   }
 ]

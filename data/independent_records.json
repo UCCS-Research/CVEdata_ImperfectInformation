@@ -1,0 +1,28 @@
+[
+  {
+    "record_id": "T1",
+    "threat_id": "9d8718d7274b3d76c806f354a236038b4c4a4fa4765f1679e594afaaabbdb6be",
+    "source_site": "Zero Day Initiative",
+    "title": "ZDI-26-174: Apple macOS ImageIO SGI File Parsing Integer Overflow Remote Code Execution Vulnerability",
+    "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-174/",
+    "date_scraped": "2026-03-12 07:16:25",
+    "compromised_package": "is",
+    "ecosystem": null,
+    "compromised_version": null,
+    "identifiers": "CVE-2026-20675",
+    "description_snippet": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS. Interaction with the ImageIO library is required to exploit this vulnerability but attack..."
+  },
+  {
+    "record_id": "T2",
+    "threat_id": "c93b22e44311dcf04d2fe3d5c0693fb31d6465a6c90cb2dbdd31c7079feed5c7",
+    "source_site": "Zero Day Initiative",
+    "title": "ZDI-26-135: LangChain LangGraph BaseCache Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+    "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-135/",
+    "date_scraped": "2026-03-12 07:16:25",
+    "compromised_package": "langgraph",
+    "ecosystem": "PyPi",
+    "compromised_version": "<4.0.0",
+    "identifiers": "CVE-2026-27794",
+    "description_snippet": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of LangChain LangGraph. Authentication is not required to exploit this vulnerability. The ZDI has assigne..."
+  }
+]
