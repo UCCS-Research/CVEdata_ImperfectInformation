@@ -16,11 +16,11 @@ Which fields support it? Explain each field's role and distinguish a stored/extr
 
 ## Uncertainty
 
-What remains unresolved? Explain how each uncertainty affects the decision. Identify the evidence that would resolve it.
+What remains unresolved, or why is the supplied evidence sufficient for your bounded claim? Explain how each relevant uncertainty affects the decision and what evidence would resolve it. Do not invent additional uncertainty to fill this section.
 
 ## Next action
 
-What should happen next, and why? Explain how the action follows from the claim, evidence, and uncertainty.
+What should happen next, and why? Explain how the action follows from the claim, evidence, and remaining uncertainty or evidence sufficiency. What finding would change your recommendation?
 
 ## Peer critique and revision
 
