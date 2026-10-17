@@ -8,6 +8,6 @@
 - Extracted metadata: stored fields produced from a source through processing; they may require corroboration.
 - Corroboration: evidence supporting a claim beyond repeating the same extracted value.
 - Grouping rule: the key used to combine/select records. Counting package-version groups differs from counting CVEs or applicable vulnerabilities.
-- Bounded closure: resolving the particular concern assessed without claiming overall security.
+- Resolving a specific concern: showing why the available evidence settles that concern without claiming overall security.
 
 Read stored snippets as text. They may be truncated and may contain HTML or Markdown. No live tools, scanner, or dependency installation is required for the activity.
