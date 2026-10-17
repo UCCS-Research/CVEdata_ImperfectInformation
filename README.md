@@ -22,7 +22,7 @@ See [reuse and attribution](REUSE.md).
 
 ## Revised teaching materials
 
-This archive adds explicit decision briefs for A-D, a hypothetical D+ follow-up supporting bounded closure, contrasting full-credit responses, and two unused snapshot records with independent task briefs. See `student/decision_briefs.md`, `student/independent_tasks.md`, and `instructor/evaluation_plan.md`. Stored records and constructed exercise facts remain separate. No classroom outcomes or validated assessment instruments are claimed. The public repository contains the revised teaching materials.
+This archive adds explicit decision briefs for A-D, a hypothetical D+ follow-up supporting resolution of a specific concern, contrasting full-credit responses, and two unused snapshot records with independent task briefs. See `student/decision_briefs.md`, `student/independent_tasks.md`, and `instructor/evaluation_plan.md`. Stored records and constructed exercise facts remain separate. No classroom outcomes or validated assessment instruments are claimed. The public repository contains the revised teaching materials.
 
 ## Distribute handouts
 
