@@ -16,7 +16,7 @@ Keep T1/T2 and their guidance unseen during modeled practice. They are available
 
 Ask what uncertainty matters, what finding changes the decision, and when the evidence supports closing a particular concern. Distinguish urgency from confidence and candidate evaluation from acceptance/deployment. Do not reward generic caution, verbosity, or requests to repeat facts stipulated in D+.
 
-Proportionality asks whether an action addresses the relevant limitation and whether the result could change the recommendation. A concise bounded closure can earn full credit. Preserve initial and revised memos separately from independent responses.
+Proportionality asks whether an action addresses the relevant limitation and whether the result could change the recommendation. A concise explanation of why a concern is resolved can earn full credit. Preserve initial and revised memos separately from independent responses.
 
 Before class, run `python3 scripts/prepare_handouts.py handouts`; distribute only the instruction packet first and hold the independent packet until the final block. Keep the data notes, instructor folder, and source-check notes as instructor resources. Introduce D+ at the debrief. Use the glossary if students need support.
 

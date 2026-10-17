@@ -19,7 +19,7 @@ D1 stores `requests`, `PyPI`, `<2.32.4`, and identifiers including CVE-2024-4708
 The interpretations guide reasoning assessment. They are not validated vulnerability labels, independently verified remediation advice, or a unique answer key.
 
 ## Decision contexts and D+
-See `student/decision_briefs.md`. For C, retain distinct CVE references for applicability review rather than treating one grouped row as one vulnerability or a complete assessment. For D+, accept bounded closure of the stipulated range-based concern; do not require another identity/version inquiry to earn full credit. These exercise assumptions do not alter the snapshot.
+See `student/decision_briefs.md`. For C, retain distinct CVE references for applicability review rather than treating one grouped row as one vulnerability or a complete assessment. For D+, accept resolution of a specific concern of the stipulated range-based concern; do not require another identity/version inquiry to earn full credit. These exercise assumptions do not alter the snapshot.
 
 ## Reserved independent tasks
 T1: the title and CVE identify a report about Apple macOS ImageIO, but `is` is questionable extracted package metadata. Request source-to-component mapping and project inventory before a dependency change; do not discard the source report. T2: the stored langgraph/PyPi/<4.0.0 fields and CVE support checking a proposed version and relevant use/advisory conditions. Do not assume exploitation or certify versions outside that range. These guidance points are reasoning targets, not independently validated vulnerability findings.

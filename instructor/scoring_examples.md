@@ -12,7 +12,7 @@ These are invented responses, not learner observations. Scores are claim scope, 
 
 **Conditional proceeding on D (2,2,2,2; 8/8).** "Continue evaluating requests as a candidate, but make acceptance contingent on checking the selected version against the reported range and the planned credential use against advisory conditions. The PyPI package and CVE identify a specific concern; they do not establish exposure in our unconfigured service. Stop acceptance if those checks leave this concern unresolved." This continues candidate evaluation, not unverified deployment.
 
-**Bounded closure on D+ (2,2,2,2; 8/8).** "The brief stipulates verified package identity and range information. The selected 2.32.4 version is outside the reported <2.32.4 range, so this range-based concern does not block the candidate. Continue ordinary adoption review; this conclusion does not establish overall security." Evidence sufficiency for this claim earns uncertainty credit without inventing another information request.
+**Resolving a specific concern on D+ (2,2,2,2; 8/8).** "The brief stipulates verified package identity and range information. The selected 2.32.4 version is outside the reported <2.32.4 range, so this range-based concern does not block the candidate. Continue ordinary adoption review; this conclusion does not establish overall security." Evidence sufficiency for this claim earns uncertainty credit without inventing another information request.
 
 Instructors should calibrate borderline responses before scoring, score justifications rather than preferred actions, and report agreement before adjudication in formal research.
 
