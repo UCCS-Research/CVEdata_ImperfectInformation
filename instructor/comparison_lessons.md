@@ -35,3 +35,5 @@ The intended difference is how students organize and practice the reasoning. Bot
 ## Research assessments
 
 T1/T2 are public practice candidates, not validated equivalent research forms. Formal pre/post and delayed assessments require additional unfamiliar records balanced across the proposed task types, including sufficient evidence. Administer the same unprompted action-and-justification instructions in both conditions. Research assessments take additional time beyond the 65-minute lesson. Withhold feedback between paired assessment responses and use the evaluation plan's independent scoring procedure.
+
+The hypothesis concerns explicitly explaining and defending why the evidence warrants an action through the complete memo, critique, and revision sequence. Since both lessons include the same case contrasts, this design cannot attribute an advantage to contrasting cases alone. See the evaluation plan's assessment-task requirements and task-specific decision scoring guide; both conditions use those same neutral assessment instructions and scoring rules.

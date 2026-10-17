@@ -23,4 +23,32 @@ A candidate pair uses the same unfamiliar snapshot report with two clearly const
 
 ## Design hypothesis
 
-Comparing cases that require different actions may help students explain which check matters and when a concern is resolved. The hypothesis concerns decisions on unfamiliar records. Better memo wording alone, or more information requests on every task, would not support it. Estimate differences from the matched comparison condition and their uncertainty before drawing conclusions about an instructional advantage. The study tests the complete sequence; it cannot attribute an effect to case order, prompts, or peer critique separately.
+We hypothesize that explicitly explaining and defending why different evidence requires different actions improves decisions on unfamiliar records. The proposed comparison tests the combined memo, critique, and justified revision sequence against a matched narrative-summary lesson. Both groups receive the case contrasts, so this comparison cannot establish the independent benefit of contrasting cases. The hypothesis concerns decisions on unfamiliar records. Better memo wording alone, or more information requests on every task, would not support it. Estimate differences from the matched comparison condition and their uncertainty before drawing conclusions about an instructional advantage. The study tests the complete sequence; it cannot attribute an effect to case order, prompts, or peer critique separately.
+
+## Assessment task requirements
+
+These are requirements for future unseen research forms, not claims that the public practice tasks already constitute such an instrument.
+
+- Include missing information that does not change the decision being assessed. For example, a missing severity score need not block resolution of a range-based concern when the supplied identity and range checks already exclude the selected version.
+- Include reassuring details that do not establish project applicability. For example, complete package fields or a collection-workflow review label do not resolve an unknown project version. Preserve original snapshot values; place any additional project facts in clearly labeled constructed briefs.
+- State evidence and project facts without announcing the desired action or labeling a brief as sufficient or unresolved. Use the same neutral action-and-justification instructions across task types. Do not make one task type identifiable merely by reassuring language, response length, or the presence of blanks.
+- Balance the reasoning demands across forms and pilot whether students can distinguish consequential facts from distractions. Vary the specific surface details so success does not rest on remembering a practice example. These task-design choices require pilot checks, not an assumption that the forms are equivalent.
+
+The sufficient-evidence condition must still supply enough facts to support a limited conclusion. Making the expected action less obvious does not justify hiding evidence students need or demanding speculation about unspecified risks.
+
+## Task-specific decision scoring guide
+
+Before scoring, prepare a guide for each task identifying the claim under review, the supplied evidence, the unknowns that block the recommendation, what each useful check resolves, and acceptable alternative actions. Distinguish concerns within the task from unrelated risks that remain outside its scope. Assessors must not demand an exhaustive security assessment for resolving one specific concern.
+
+Award the action point only when the response addresses the blocking concern or correctly explains why none remains for the limited claim. A conditional recommendation can earn credit if its conditions require the necessary checks before acceptance. A pause can earn credit if the response specifies what must be resolved. An unconditional acceptance that leaves a blocking applicability question unanswered earns no action point, however fluent its explanation.
+
+Examples for calibration, not learner results:
+
+| Task state | Recommendation | Action-point rationale |
+| --- | --- | --- |
+| Package identity remains unresolved. | Check only the selected version against a range whose package identity is still uncertain, then accept. | 0: the proposed check does not resolve the identity needed to apply the range. |
+| Package identity remains unresolved. | Confirm the report-to-component mapping, then check the candidate version and relevant conditions before acceptance. | 1: the conditional plan addresses the blocking concern. |
+| Identity and range checks exclude the selected version; severity score is missing. | Resolve this range-based concern and continue ordinary adoption review. | 1: the missing score does not change the supplied version comparison. |
+| Identity is credible and package fields are complete, but project version is unknown. | Accept because the report is detailed. | 0: completeness does not establish whether the selected version is affected. |
+
+Record the factual reason for each judgment and allow alternative plans that resolve the same concern. The other two primary points still assess recognition of the relevant limitation or sufficiency and its connection to the project. These examples clarify the proposed scoring process; they do not demonstrate measurement validity or actual engineering outcomes.
