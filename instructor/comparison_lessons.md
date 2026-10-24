@@ -6,7 +6,7 @@ For exact file selection and release timing, follow [Preparing handouts for the 
 
 ## Shared preparation and content
 
-Use the same eight records, A-D and D+ project briefs, glossary, case order, 65-minute duration, and opportunities for pair discussion. Teach both conditions that a CVE does not establish project exposure, that identity and affected conditions require checking, and that sufficient verified exercise facts can resolve one concern without proving overall security. Give the same factual explanation of each case in both conditions. Do not give one group extra advisory facts, additional practice records, or more feedback time. Use the student-only packets and withhold instructor scoring examples until practice is complete.
+Use the same eight records, A-D and D+ project briefs, glossary, case order, 65-minute duration, and opportunities for pair discussion. Teach both conditions that a CVE does not establish project exposure, that identity and affected conditions require checking, and that sufficient verified exercise facts can resolve one concern without proving overall security. Give the same factual explanation of each case in both conditions. Do not give one group extra advisory facts, additional practice records, or more feedback time. Use the student-only packets. Do not display, read aloud, or distribute scoring examples until both independent responses have been collected. Use the shared D+ factual explanation at minutes 35-50 in both conditions.
 
 ## Lesson schedule
 
