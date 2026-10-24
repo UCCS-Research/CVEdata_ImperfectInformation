@@ -9,7 +9,7 @@ Prerequisites: package ecosystems, dependency versions, vulnerability identifier
 | 0-8 | Vocabulary, memo prompts, short instructor model |
 | 8-20 | D adoption memo and A comparison |
 | 20-35 | B/C pair analysis, challenge and response |
-| 35-50 | Compare D+ and scoring examples; justified revision |
+| 35-50 | Compare D+ using the shared factual explanation; justified revision |
 | 50-65 | Distribute T1/T2 records and briefs; independent responses |
 
 
@@ -40,6 +40,6 @@ The generated `instruction` directory is a staging collection, not a packet to d
 2. **Withheld follow-up (both lessons):** save the D+ heading and its complete section as a separate handout. Release it only during minutes 35-50, at the same point in both lessons. Keep the exercise's hypothetical-facts qualification with it.
 3. **Activity lesson only:** add `instruction/student/activity.md` and `instruction/student/decision_memo.md`. Do not give these files to comparison students; they contain the four questions, peer challenge, and revision instructions.
 4. **Comparison lesson only:** provide this instruction instead: "Write a short narrative summary of each supplied alert and what it means for the proposed project. Discuss your summaries and questions with a partner. When follow-up facts are released, update the summary to include them and their implications." Do not provide the four-question worksheet or require a formal peer challenge and separate revision explanation.
-5. **Final independent block (both lessons):** withhold all files in `independent` until minutes 50-65. Do not distribute instructor guidance or scoring examples with any student handout.
+5. **Final independent block (both lessons):** withhold all files in `independent` until minutes 50-65. Do not display, read aloud, or distribute scoring examples until both independent responses have been collected. Keep instructor guidance separate from student handouts.
 
 Check the assembled initial handouts before class: no D+ section in either lesson, and no activity worksheet or challenge/revision directions in the comparison selection. The builder separates practice from independent records; this manual selection provides the timing and condition separation.
