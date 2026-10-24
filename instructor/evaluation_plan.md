@@ -38,6 +38,8 @@ The sufficient-evidence condition must still supply enough facts to support a li
 
 ## Task-specific decision scoring guide
 
+For future assessment tasks requiring a complete conditional plan, use the same explicit direction across task types: "State your next action and the decision-relevant conditions that must be met before a dependency change or acceptance." The public T1/T2 practice prompts ask for a next action; a justified immediate step need not list every later check. Do not apply a full-plan scoring requirement to those prompts retroactively.
+
 Before scoring, prepare a guide for each task identifying the claim under review, the supplied evidence, the unknowns that block the recommendation, what each useful check resolves, and acceptable alternative actions. Distinguish concerns within the task from unrelated risks that remain outside its scope. Assessors must not demand an exhaustive security assessment for resolving one specific concern.
 
 Award the action point only when the response addresses the blocking concern or correctly explains why none remains for the limited claim. A conditional recommendation can earn credit if its conditions require the necessary checks before acceptance. A pause can earn credit if the response specifies what must be resolved. An unconditional acceptance that leaves a blocking applicability question unanswered earns no action point, however fluent its explanation.
