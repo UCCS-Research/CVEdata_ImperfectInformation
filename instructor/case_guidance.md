@@ -6,7 +6,7 @@ A1 names Yokogawa products and six CVEs, but stores the ordinary word `for` as t
 
 ## B — Naming ambiguity
 
-B1 stores `n8n-editor-ui`; B2 and B3 store `n8n`, associated with the same CVE. Students preserve alternative interpretations and ask for dependency-coordinate evidence. Three references are not automatically three independent confirmations. The stored affected ranges also differ; do not invent a reconciled mapping or range.
+B1 stores `n8n-editor-ui`; B2 and B3 store `n8n`, associated with the same CVE. Students preserve alternative interpretations and ask for dependency-coordinate evidence. If students consult credible live sources that identify the affected package, accept that supported resolution; do not require them to retain uncertainty after the relevant evidence is available. They must still establish whether the report applies to the proposed deployment. Three references are not automatically three independent confirmations. The stored affected ranges also differ; do not invent a reconciled mapping or range.
 
 ## C — Grouping semantics
 
@@ -22,4 +22,9 @@ The interpretations guide reasoning assessment. They are not validated vulnerabi
 See `student/decision_briefs.md`. For C, retain distinct CVE references for applicability review rather than treating one grouped row as one vulnerability or a complete assessment. For D+, accept resolution of a specific concern of the stipulated range-based concern; do not require another identity/version inquiry to earn full credit. These exercise assumptions do not alter the snapshot.
 
 ## Reserved independent tasks
-T1: the title and CVE identify a report about Apple macOS ImageIO, but `is` is questionable extracted package metadata. Request source-to-component mapping and project inventory before a dependency change; do not discard the source report. T2: the stored langgraph/PyPi/<4.0.0 fields and CVE support checking a proposed version and relevant use/advisory conditions. Do not assume exploitation or certify versions outside that range. These guidance points are reasoning targets, not independently validated vulnerability findings.
+T1: the title and CVE identify a report about Apple macOS ImageIO, but `is` is questionable extracted package metadata. Request source-to-component mapping and project inventory before a dependency change; do not discard the source report. T2: the stored record names `langgraph`, `PyPi`, and `<4.0.0`, but those extracted fields need checking. The current advisory for CVE-2026-27794 identifies `langgraph-checkpoint` as the distribution affected below 4.0.0. Confirm the report-to-dependency mapping and that dependency's version before applying the range; do not transfer the boundary to the version of `langgraph`. Relevant conditions include enabled caching, a node caching policy, and attacker write access to the cache backend. Do not assume exploitation or certify versions outside that range. The maintainer advisory is https://github.com/langchain-ai/langgraph/security/advisories/GHSA-mhr3-j7m5-c7c9 (checked 23 October 2026). This guidance supplements the exercise; preserve the original snapshot fields. These guidance points are reasoning targets, not independently validated vulnerability findings.
+
+
+## Stored records and live evidence
+
+Use the fixed snapshot for the core exercise. If live sources are consulted, record the source and retrieval date, accept supported resolutions, and distinguish disagreement with an extracted field from demonstrated changes in the upstream report. Historical API payloads are not archived here, so a current disagreement alone does not establish when or why it arose.
