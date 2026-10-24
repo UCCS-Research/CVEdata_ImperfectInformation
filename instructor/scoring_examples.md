@@ -45,3 +45,10 @@ An implicit reason can earn partial credit only when it is present in the studen
 - **2:** "Our candidate version is unknown. Check it against the reported <2.32.4 range before accepting the dependency, because that comparison determines whether this version falls within the reported range." The response identifies a particular check and its consequence. Full credit for the whole memo still requires the other rubric dimensions and any other relevant advisory conditions.
 
 These anchors clarify the next-action dimension only. They do not change the existing four-dimension example totals or establish scoring reliability.
+
+
+## Immediate next steps and complete plans
+
+Score the response against what the task asks. T1 and T2 request a next action. A specific, justified immediate check can earn the next-action points even if the response does not list every later step. For example, checking which dependency the T1 advisory identifies is a useful first step when the student explains why the stored package field is questionable. Do not deduct an action point solely because the student has not supplied a complete plan. The other rubric dimensions still require their own evidence.
+
+For future tasks that require conditions before changing or accepting a dependency, state that requirement explicitly and consistently: "State your next action and the decision-relevant conditions that must be met before a dependency change or acceptance." Then score whether those conditions address the unresolved concern. An unconditional recommendation to accept now and investigate later does not satisfy that requirement. Do not apply this full-plan requirement retroactively to a next-step-only prompt. Keep the four-dimension /8 rubric and the proposed /3 research score separate; this clarification does not add a hidden score cap.
